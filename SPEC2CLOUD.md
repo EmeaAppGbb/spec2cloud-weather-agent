@@ -4,7 +4,7 @@ description: AI App that shows dummy weather information using AI Foundry, Micro
 authors: [vieiraae] # GitHub handles with the main contributors
 category: AI Apps & Agents # AI Apps & Agents | App Modernization | Data Centric Apps | Agentic DevOps
 industry: Cross-Industry # Cross-Industry | Finantial Services | Healthcare & Life Sciences | Manufacturing | Retail & Consumer Goods | Government & Public Sector | Education | Energy & Resources | Telco & Media | Mobility & Automotive
-services: [Azure AI Foundry, Azure Container Apps, Azure API Management] # Full list here: https://azure.microsoft.com/en-us/products/
+services: [Microsoft Foundry, Azure Container Apps, Azure API Management] # Full list here: https://azure.microsoft.com/en-us/products/
 languages: [Python, TypeScript] # .NET | Python | Java | Go | TypeScript | JavaScript | BICEP | Terraform
 frameworks: [Microsoft Agent Framework] # Microsoft Agent Framework | Aspire | LangChain | Pydantic AI
 tags: [MCP, AI-Gateway] # Labels used to categorize the template
